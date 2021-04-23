@@ -1,0 +1,43 @@
+body{
+    background-color: #2b4f60
+}
+ hr{
+    display: block;
+    border-style: dashed none none;
+    border-width: 4px;
+    border-color: #150e56;
+    width:70%;
+    height: 1px;
+     background-color: inherit;
+  }
+  p{
+  color:  #0a043c;
+  }
+  h1{
+    color: #66Bfbf
+  }
+  h2{
+    color:  #0a043c;
+  }
+  h3{
+    color: #66Bfbf
+  }
+  h4{
+    color: #66Bfbf
+  }
+  table{
+    color:  #0a043c;
+    background-color: #ddffbc;
+    border-color: #0a043c;
+    border-width: 5px;
+  }
+  ol{
+    border-color: #0a043c;
+    background-color: #f6f5f5;
+  }
+  form{
+    border-color: #0a043c;
+  }
+  li{
+    color: #0a043c
+  }
